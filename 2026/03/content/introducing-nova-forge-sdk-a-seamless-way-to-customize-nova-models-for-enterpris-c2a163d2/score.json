@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.6,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-21 02:48:27",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "AWS Machine Learning Blog classified as tier_5 (unclassified or low-reliability source, reliability: 20%)",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "no benchmarks, datasets, or peer-reviewed citations in this AWS Machine Learning Blog article",
+      "score": 1.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this AWS Machine Learning Blog piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "claims not cross-referenced against external expert consensus",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected",
+      "score": 3.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "AWS Machine Learning Blog: insufficient history to assess",
+      "score": 2.0,
+      "weight": 0.1
+    }
+  ]
+}
