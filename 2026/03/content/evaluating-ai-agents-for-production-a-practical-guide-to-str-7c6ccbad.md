@@ -1,0 +1,1 @@
+In this post, we show how to evaluate AI agents systematically using Strands Evals. We walk through the core concepts, built-in evaluators, multi-turn simulation capabilities and practical approaches and patterns for integration.
