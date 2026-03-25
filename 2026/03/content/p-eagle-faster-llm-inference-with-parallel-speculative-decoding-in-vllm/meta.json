@@ -1,0 +1,8 @@
+{
+  "id": "82e38f5c-7fee-4a99-a014-71a3fb7d918c",
+  "published_at": "2026-03-13T19:27:04+00:00",
+  "scraped_at": "2026-03-14 08:00:22",
+  "source": "AWS Machine Learning Blog",
+  "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
+  "url": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/"
+}
