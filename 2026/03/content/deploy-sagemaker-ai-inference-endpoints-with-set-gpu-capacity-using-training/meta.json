@@ -1,0 +1,8 @@
+{
+  "id": "d0f60b46-0830-40dc-9d9e-33aa0f02b290",
+  "published_at": "2026-03-24T20:27:49+00:00",
+  "scraped_at": "2026-03-25 12:41:00",
+  "source": "AWS Machine Learning Blog",
+  "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
+  "url": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/"
+}
