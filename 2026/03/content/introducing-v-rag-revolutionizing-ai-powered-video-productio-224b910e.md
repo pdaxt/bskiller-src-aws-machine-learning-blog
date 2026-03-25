@@ -1,0 +1,1 @@
+This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.
