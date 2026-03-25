@@ -1,0 +1,17 @@
+{
+  "id": "728aff66-349f-4492-aa74-fd743f86f974",
+  "title": "Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/",
+  "source_name": "AWS Machine Learning Blog",
+  "published_at": "2026-03-16T14:42:46+00:00",
+  "scraped_at": "2026-03-17 00:16:14",
+  "bs_score": 4.0,
+  "bs_rating": "mixed",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": null
+}
