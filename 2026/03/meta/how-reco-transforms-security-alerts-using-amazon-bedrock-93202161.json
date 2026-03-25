@@ -1,0 +1,17 @@
+{
+  "id": "93202161-2455-496b-a079-6fba5a16f5f4",
+  "title": "How Reco transforms security alerts using Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
+  "source_name": "AWS Machine Learning Blog",
+  "published_at": "2026-03-23T16:46:54+00:00",
+  "scraped_at": "2026-03-24 04:14:05",
+  "bs_score": 6.2,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "Tal Shapira, Tamir Friedman"
+}
