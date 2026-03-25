@@ -1,0 +1,17 @@
+{
+  "id": "96f3f643-6bf2-435f-a38b-3bea9195f674",
+  "title": "Integrating Amazon Bedrock AgentCore with Slack",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/",
+  "source_name": "AWS Machine Learning Blog",
+  "published_at": "2026-03-23T16:38:56+00:00",
+  "scraped_at": "2026-03-24 04:14:05",
+  "bs_score": 6.2,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "Salman Ahmed"
+}
