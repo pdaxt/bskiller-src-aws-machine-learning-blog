@@ -1,0 +1,1 @@
+The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.
