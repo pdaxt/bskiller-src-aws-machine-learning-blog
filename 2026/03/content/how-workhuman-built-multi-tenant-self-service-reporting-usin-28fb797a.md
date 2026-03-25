@@ -1,0 +1,1 @@
+This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their architecture approach, implementation strategy, and the business outcomes they achieved - providing you with a practical blueprint for adding embedded analytics to your own software as a service (SaaS) applications.
