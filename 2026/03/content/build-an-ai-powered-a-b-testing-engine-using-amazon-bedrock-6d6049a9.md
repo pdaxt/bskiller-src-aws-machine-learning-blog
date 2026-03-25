@@ -1,0 +1,1 @@
+This post shows you how to build an AI-powered A/B testing engine using&nbsp;Amazon Bedrock,&nbsp;Amazon Elastic Container Service,&nbsp;Amazon DynamoDB, and the Model Context Protocol (MCP). The system improves traditional A/B testing by analyzing user context&nbsp; to make smarter variant assignment decisions during the experiment.
