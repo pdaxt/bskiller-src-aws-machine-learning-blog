@@ -1,0 +1,17 @@
+{
+  "id": "65690bfa-6afc-4024-90af-5e89ee270ee7",
+  "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+  "source_name": "AWS Machine Learning Blog",
+  "published_at": "2026-03-12T21:20:17+00:00",
+  "scraped_at": "2026-03-16 09:54:55",
+  "bs_score": 4.0,
+  "bs_rating": "mixed",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "engineering",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": null
+}
