@@ -1,13 +1,6 @@
 {
-  "version": "1.0",
-  "source_name": "Aws Machine Learning Blog",
+  "source_name": "AWS Machine Learning Blog",
   "repo": "bskiller-src-aws-machine-learning-blog",
-  "story_count": 31,
-  "last_updated": "2026-03-25T08:57:12Z",
-  "months": [
-    {
-      "month": "2026-03",
-      "story_count": 31
-    }
-  ]
+  "story_count": 3,
+  "last_updated": "2026-03-25T10:38:52.734592+00:00"
 }
