@@ -1,0 +1,44 @@
+{
+  "bs_rating": "High BS",
+  "bs_score": 6.1,
+  "career_angle": "Multimodal video understanding is genuinely worth learning, but learn it from papers and open-source projects (LLaVA-Video, Qwen2-VL), not vendor marketing. If your org uses AWS, the GitHub sample code is worth reading for architecture patterns -- just ignore the sales pitch.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "AWS ML Blog is technically competent but this is vendor content, not independent research or journalism",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "No benchmarks, no accuracy metrics, no comparisons with competing solutions -- just conceptual architecture descriptions and vague capability claims",
+      "score": 3.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Open source sample on GitHub is a plus, but reproducibility is locked to AWS ecosystem and Bedrock pricing",
+      "score": 5.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "AWS writing about how AWS Bedrock solves everything is the definition of conflict of interest -- they profit directly from adoption",
+      "score": 2.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Multimodal models for video analysis is a real and growing field, but the claim that Bedrock specifically 'changes the paradigm' is unsupported marketing language",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Drowning in buzzwords -- 'unlocking insights,' 'scalable understanding,' 'meaningful insights' -- with zero concrete performance numbers or defined outcomes",
+      "score": 3.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "AWS ships real products and Bedrock exists, but their blog posts consistently oversell capabilities before customers hit real-world limitations",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
