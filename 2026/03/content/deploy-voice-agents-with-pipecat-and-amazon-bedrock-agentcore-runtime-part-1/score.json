@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.5,
+  "career_angle": "Pipecat is genuinely worth learning as an open-source voice agent framework; just don't lock yourself into AgentCore Runtime before comparing Fly.io, Modal, or self-hosted alternatives on latency and cost.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "AWS ML Blog carries weight for AWS products but this is vendor content marketing, not independent analysis",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Describes architectural patterns and promises code samples but shows zero latency benchmarks, no cost comparisons, no before/after metrics",
+      "score": 4.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Part 1 of a tutorial series with deployment guidance and code -- should be reproducible if you have an AWS account",
+      "score": 6.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "AWS and Pipecat co-authored a post promoting AWS Bedrock AgentCore Runtime -- textbook vendor content dressed as education",
+      "score": 2.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Voice agent challenges (latency, jitter, scaling) are real and well-documented; AgentCore Runtime itself is too new to have independent validation",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names specific transports (WebSocket, WebRTC, telephony) but no concrete numbers on latency, throughput, or cost versus alternatives",
+      "score": 4.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "AWS cloud infra is battle-tested and Pipecat is a legit open-source project, but Bedrock AgentCore is brand new with no production track record",
+      "score": 6.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
