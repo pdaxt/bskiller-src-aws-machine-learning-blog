@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.0,
+  "career_angle": "RFT skills are genuinely valuable -- but learn the technique from research papers first, then pick your vendor. Don't let AWS lock you into Bedrock when the same approach works on open-source stacks.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "First-party vendor blog. AWS writing about AWS products is marketing, not independent analysis.",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Provides code snippets and a GSM8K walkthrough, but no independent benchmarks, no comparison to competitors, no failure modes discussed.",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Step-by-step code is provided and GSM8K is public, but requires Bedrock access and Lambda setup -- vendor lock-in baked into reproducibility.",
+      "score": 6.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Maximum conflict. AWS selling AWS services. Every technical decision conveniently routes through Bedrock, Lambda, and IAM.",
+      "score": 2.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "RLHF/RFT is well-established in ML research (Ouyang et al. 2022, DeepSeek-R1). The underlying science is sound and widely accepted.",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names specific models (GPT OSS 20B, Qwen 3 32B), specific dataset (GSM8K), and provides actual API calls. Concrete enough to verify.",
+      "score": 7.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "AWS ML Blog delivers on technical claims but consistently oversells ease-of-use. Bedrock has had real adoption but also quiet feature deprecations.",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
